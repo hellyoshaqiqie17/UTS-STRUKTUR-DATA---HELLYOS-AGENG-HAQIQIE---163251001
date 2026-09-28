@@ -1,6 +1,6 @@
 # UTS STRUKTUR DATA — HELLYOS AGENG HAQIQIE (163251001)
 
-n **Ujian Tengah Semester (UTS) Praktikum Struktur Data (NIM Ganjil)** yang mencakup duasoal:
+n **Ujian Tengah Semester (UTS)** yang mencakup duasoal:
 1. **Soal 1:** Sistem Inventaris Barang Gudang *(Materi: Array + Stack)*
 2. **Soal 3:** Manajemen Playlist Musik *(Materi: Singly Linked List + Stack)*
 
@@ -14,7 +14,7 @@ n **Ujian Tengah Semester (UTS) Praktikum Struktur Data (NIM Ganjil)** yang menc
 | **NIM** | 163251001 |
 | **Mata Kuliah** | Struktur Data |
 | **Tipe Soal** | NIM Ganjil (Soal 1 & Soal 3) |
-| **Bahasa Pemrograman** | C++ (Standar C++11 ke atas) |
+| **Bahasa Pemrograman** | C++ |
 
 ---
 
