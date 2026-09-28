@@ -1,0 +1,21 @@
+# Executables
+*.exe
+*.out
+*.app
+
+# Objects
+*.o
+*.obj
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# LaTeX files
+*.tex
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.pdf
